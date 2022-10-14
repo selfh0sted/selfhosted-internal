@@ -1,0 +1,4 @@
+[submodule "netbox"]
+	path = netbox
+	url = git@github.com:selfh0sted/netbox.git
+	branch = main
