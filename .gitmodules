@@ -2,3 +2,11 @@
 	path = netbox
 	url = git@github.com:selfh0sted/netbox.git
 	branch = main
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:selfh0sted/traefik.git
+	branch = main
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:selfh0sted/dashboard.git
+	branch = main
