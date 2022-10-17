@@ -10,3 +10,23 @@
 	path = dashboard
 	url = git@github.com:selfh0sted/dashboard.git
 	branch = main
+[submodule "vaultwarden"]
+	path = vaultwarden
+	url = git@github.com:selfh0sted/vaultwarden.git
+	branch = main
+[submodule "keycloak"]
+	path = keycloak
+	url = git@github.com:selfh0sted/keycloak
+	branch = main
+[submodule "caldav"]
+	path = caldav
+	url = git@github.com:selfh0sted/caldav
+	branch = main
+[submodule "paperless"]
+	path = paperless
+	url = git@github.com:selfh0sted/paperless
+	branch = main
+[submodule "arbeitszeit"]
+	path = arbeitszeit
+	url = git@github.com:selfh0sted/arbeitszeit
+	branch = main
